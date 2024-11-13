@@ -1,0 +1,13 @@
+{
+  "name": "com.darby.tools",
+  "version": "1.0.0",
+  "displayName": "Darby 工具包",
+  "description": "提供載入場景與退出遊戲功能",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "Darby",
+    "email": "2022darby@gmail.com",
+    "url": ""
+  }
+}
